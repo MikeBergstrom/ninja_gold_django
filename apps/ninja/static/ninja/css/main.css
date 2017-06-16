@@ -1,0 +1,24 @@
+#count{
+    display: inline-block;   
+    vertical-align: top;
+} 
+    #gold{
+    border: 2px solid black;
+    height: 15px;
+    width: 100px;
+    display: inline-block;
+    vertical-align: top;
+    padding: 5px;
+}
+.zone{
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+    display: inline-block;
+    text-align: center;
+}
+#activities{
+    border: 2px solid black;
+    width: 825px;
+    height:300px;
+}
